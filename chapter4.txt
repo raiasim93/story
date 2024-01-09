@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+it was life of aliens, life of dinosaurs
+>>>>>>> alien-plot
